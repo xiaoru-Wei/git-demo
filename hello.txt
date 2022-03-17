@@ -7,5 +7,5 @@ hello xiaoru! hello git!
 hello xiaoru! hello git!
 hello xiaoru! hello git!
 hello xiaoru! hello git!
-hello xiaoru! hello git!
+hello xiaoru! hello git! hot-fix test
 hello xiaoru! hello git!
